@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import Banner from "@hackclub/banner";
 
 import billboard from "../art/billboard.png";
-import title from "../art/melbtitle.png";
+import title from "../art/title.png";
 import smoke from "../art/smoke.gif";
 import down from "../art/down.png";
 

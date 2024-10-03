@@ -1,22 +1,3 @@
-"======== READ ME BEFORE EDITING ========";
-/*
-Hello! this is the template for the city pages.
-
-To create a new page, make a copy of this file in the same directory (src/pages) and rename it for your city.
-Make a copy of the example components (src/components/ExampleCity) and rename it for your city.
-E.g. Ottawa, ON -> Ottawa.js and src/components/Ottawa.
-
-Replace all placeholder info, indicated by "TODO" comments, in this file and the components with the appropriate content!
-You do not need to use this template exactly, feel free to customize it as much as you see fit.
-
-Once you're done, make sure to update the routes in src/index.js to include your new page. There's an example there.
-Make a PR and we'll review it as soon as we can!
-
-If you have any questions, send a message to the #counterspell channel on the Hack Club Slack and we'll try to help.
-
-P.S. Feel free to delete this comment block when you're done! 
-*/
-
 import "./App.css";
 import React, { useEffect, useRef, useState } from "react";
 import { initParticlesEngine } from "@tsparticles/react";

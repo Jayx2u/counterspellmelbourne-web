@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import App from "./pages/App";
+//import App from "./pages/App";
 import NotFound from "./pages/NotFound";
 
 // To add your own page, uncomment the following import statement.
@@ -25,7 +25,6 @@ root.render(
           E.g. Ottawa, ON -> `/ottawa` and `Ottawa`.
         */}
         {/* <Route path="/example-city" element={<ExampleCity />} /> */}
-          <Route path="/melbourne" element={<Melbourne />} />
 
         <Route path="*" element={<NotFound />} />
       </Routes>

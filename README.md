@@ -1,2 +1,1 @@
-# counterspellmelbourne.github.io
-Counterspell Melbourne Website
+# Counterspell Melbourne Website

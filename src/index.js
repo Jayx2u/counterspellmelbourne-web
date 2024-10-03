@@ -17,7 +17,7 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<App />} />
+        <Route path="/" element={<Melbourne />} />
 
         {/*
           To add your own page, copy paste and uncomment the following code! 

@@ -12,7 +12,7 @@ import About from "../components/Melbourne/About";
 import Faq from "../components/Melbourne/Faq";
 
 import music from "../music.mp3";
-import Footer from "../components/Footer";
+import Footer from "../components/Melbourne/Footer";
 
 export default function Melbourne() {
   const [init, setInit] = useState(false);

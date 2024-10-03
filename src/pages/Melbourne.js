@@ -14,6 +14,8 @@ import Faq from "../components/Melbourne/Faq";
 import music from "../music.mp3";
 import Footer from "../components/Melbourne/Footer";
 
+import { Analytics } from "@vercel/analytics/react"
+
 export default function Melbourne() {
   const [init, setInit] = useState(false);
   const [docHeight, setDocHeight] = useState(0);
@@ -139,6 +141,8 @@ export default function Melbourne() {
       </div>
 
       <Footer />
+
+      <Analytics/>
 
       <svg width="0" height="0" className="block">
         <filter id="grainy" x="0" y="0" width="100%" height="100%">

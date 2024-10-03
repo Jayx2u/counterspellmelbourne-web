@@ -17,7 +17,7 @@ export default function Steps() {
             <div className="border-4 border-pink border-dashed flex flex-wrap items-center justify-center inter p-8 gap-6">
               <StepCard
                 img={apo1}
-                text="Sign up for a Counterspell Melbourne"
+                text="Sign up for Counterspell Melbourne"
               />
               <StepCard
                 img={apo2}

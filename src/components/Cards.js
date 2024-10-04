@@ -51,7 +51,7 @@ export default function Cards() {
             {}
             You can join the guild you identify with for exclusive swag and
             badges! You also get to compete against other guilds in friendly
-            activities/challenges throughout Counterspell Melbourne!
+            activities and challenges throughout Counterspell Melbourne!
           </p>
         </div>
       </div>

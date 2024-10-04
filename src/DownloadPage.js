@@ -7,8 +7,8 @@ export default function DownloadPage() {
     window.location.href = `/${filename}`;
 
     return (
-        <div>
-            <p>Downloading {filename}...</p>
+        <div className="flex flex-col space-y-8 mx-4 justify-center items-center min-h-screen retro">
+            <h1 className="text-5xl">Downloading {filename}...</h1>
         </div>
     );
 };

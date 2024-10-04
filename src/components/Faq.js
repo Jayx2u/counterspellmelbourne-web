@@ -51,7 +51,7 @@ const faqData = [
   },
   {
     question: "What can I make at Counterspell?",
-    answer: `At Counterspell, we're building video games of all kinds! The theme will be revealed at the start of the hackathon.`,
+    answer: `At Counterspell, we're building video games of all kinds! The theme will be revealed at the start of the event.`,
   },
   {
     question: "What do I need to bring to Counterspell?",
@@ -64,8 +64,8 @@ const faqData = [
           and we'll make sure to answer all their questions!`,
   },
   {
-    question: "How can I reach out for more questions?",
-    answer: `Contact us! Reach out at <a href="https://hackclub.com/slack/">#counterspell-melbourne</a> on the Hack Club Slack or email us at <a href="mailto:contact@counterspellmelbourne.com">contact@counterspellmelbourne.com</a>.
+    question: "I have more questions, where can I ask?",
+    answer: `Contact us! Reach in <a href="https://hackclub.com/slack/">#counterspell-melbourne</a> on the Hack Club Slack or email us at <a href="mailto:contact@counterspellmelbourne.com">contact@counterspellmelbourne.com</a>.
           We're always ready to answer all your questions!`,
   },
 ];

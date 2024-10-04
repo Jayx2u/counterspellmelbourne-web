@@ -59,13 +59,13 @@ const faqData = [
   },
   {
     question: "My parents are worried!",
-    answer: `We're here to help! Ask them to reach out to us at
+    answer: `We're here to help! Ask them to reach out to Hack Club at
           <a href="mailto:counterspell@hackclub.com">counterspell@hackclub.com</a>
           and we'll make sure to answer all their questions!`,
   },
   {
     question: "I have more questions, where can I ask?",
-    answer: `Contact us! Reach in <a href="https://hackclub.com/slack/">#counterspell-melbourne</a> on the Hack Club Slack or email us at <a href="mailto:contact@counterspellmelbourne.com">contact@counterspellmelbourne.com</a>.
+    answer: `Contact us! Reach us in <a href="https://hackclub.com/slack/">#counterspell-melbourne</a> on the Hack Club Slack or email us <a href="mailto:contact@counterspellmelbourne.com">here</a>.
           We're always ready to answer all your questions!`,
   },
 ];

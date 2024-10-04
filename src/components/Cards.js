@@ -49,8 +49,8 @@ export default function Cards() {
         <div className="mt-6 border-4 border-dashed border-pink max-w-6xl py-6 px-6">
           <p class="neuebit text-3xl">
             {}
-            You can join the guild you identify with for exclusive swag and
-            badges! You also get to compete against other guilds in friendly
+            You can join one of the three guilds for exclusive swag and
+            badges! You'll also get to compete against other guilds in friendly
             activities and challenges throughout Counterspell Melbourne!
           </p>
         </div>

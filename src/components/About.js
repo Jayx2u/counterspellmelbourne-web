@@ -13,12 +13,12 @@ export default function About() {
           <div className="row-span-2 border-4 border-pink border-dashed p-8 md:p-12 space-y-12">
             <p>
               {}
-              Counterspell Melbourne is a beginner friendly game jam for high
-              schoolers happening in Melbourne where{" "}
+              Counterspell Melbourne is a beginner friendly hackathon/game jam for high
+              schoolers happening this November where{" "}
               <span className="text-pink">
                 artists, musicians, and coders
               </span>{" "}
-              get together to build apps and games.
+              will get together to build apps and games.
             </p>
             <p className="retro text-2xl uppercase">Build whatever you want!</p>
             <p>
@@ -27,14 +27,24 @@ export default function About() {
               decided through peer voting before the event starts.{" "}
             </p>
             <p>
-               {/*TODO: Confirm event duration and update accordingly */}
+              {/*TODO: Confirm event duration and update accordingly */}
               Whether you’re a beginner or experienced in programming- we’ll
               have workshops, resources and mentors throughout the 24 hours to
               help you with your project.
             </p>
+            <p className="retro text-2xl uppercase">Bring your friends!</p>
+            <p>
+              Counterspell is{" "}
+              <span className="text-pink">
+                  more fun with friends!
+              </span>{" "}
+              Team up with people you know, or meet new people at the event to
+              collaborate on your game or app. Whether you're working in a group
+              or solo, you'll have plenty of opportunities to share ideas,
+              get creative, and learn together.
+            </p>
           </div>
-          <div
-            className="border-4 border-pink border-dashed bg-cover bg-center bg-clip-padding h-64 xl:h-auto"
+          <div className="border-4 border-pink border-dashed bg-cover bg-center bg-clip-padding h-64 xl:h-auto"
             style={{ backgroundImage: `url(${about1})` }}
           ></div>
           <div

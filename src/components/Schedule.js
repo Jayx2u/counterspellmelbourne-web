@@ -15,8 +15,10 @@ export default function Schedule() {
     { time: "10:30 AM", event: "Game demos!" },
     { time: "12:00 PM", event: "Closing ceremony" },*/
 
-    {time: "11:00AM", event: "Doors open"},
-    {time: "?????", event: "Schedule TBA soon"}
+    {time: "10:30AM", event: "Doors open"},
+    {time: "11:00AM", event: "Opening Ceremony"},
+    {time: "?????", event: "Schedule TBA soon"},
+    {time: "11:00AM", event: "Event conclusion"},
   ];
 
   return (

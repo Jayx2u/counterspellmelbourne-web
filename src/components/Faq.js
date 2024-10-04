@@ -65,10 +65,7 @@ const faqData = [
   },
   {
     question: "How can I reach out for more questions?",
-    answer: `Contact us! Reach out at
-          <a href="https://hackclub.com/slack/">#counterspell-melbourne</a>
-          on the Hack Club Slack or email us at
-          <a href="mailto:contact@counterspellmelbourne.com">contact@counterspellmelbourne.com</a>.
+    answer: `Contact us! Reach out at <a href="https://hackclub.com/slack/">#counterspell-melbourne</a> on the Hack Club Slack or email us at <a href="mailto:contact@counterspellmelbourne.com">contact@counterspellmelbourne.com</a>.
           We're always ready to answer all your questions!`,
   },
 ];

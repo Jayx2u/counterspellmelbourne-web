@@ -15,6 +15,7 @@ import Footer from "./components/Footer";
 import music from "./assets/music/music.mp3";
 
 import { Analytics } from "@vercel/analytics/react"
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 
 export default function Melbourne() {
@@ -144,6 +145,7 @@ export default function Melbourne() {
             <Footer />
 
             <Analytics/>
+            <SpeedInsights/>
 
             <svg width="0" height="0" className="block">
                 <filter id="grainy" x="0" y="0" width="100%" height="100%">

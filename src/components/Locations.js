@@ -24,7 +24,7 @@ export default function Locations() {
         </div>
       </div>
 
-      <div className="flex justify-center text-center text-2xl space-y-2 my-20">
+      <div className="flex justify-center text-center text-2xl space-y-2 my-20" id="interest">
         <div className="border-4 border-dashed border-pink py-6 px-6 neuebit tracking-wider text-4xl">
           <p>
             Counterspell Melbourne is organised by teenagers, for teenagers.

@@ -1,10 +1,10 @@
-import apo1 from "../assets/images/photos/apo1.png";
-import apo2 from "../assets/images/photos/apo2.png";
-import apo3 from "../assets/images/photos/apo3.png";
-import apo4 from "../assets/images/photos/apo4.png";
-import apo5 from "../assets/images/photos/apo5.png";
-
 import Schedule from "./Schedule";
+
+const apo1 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/photos/apo1.png";
+const apo2 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/photos/apo2.png";
+const apo3 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/photos/apo3.png";
+const apo4 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/photos/apo4.png";
+const apo5 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/photos/apo5.png";
 
 
 export default function Steps() {

@@ -1,8 +1,8 @@
 import { Tilt } from "react-next-tilt";
 
-import hacker_card from "../assets/images/cards/hacker.png";
-import musician_card from "../assets/images/cards/musician.png";
-import artist_card from "../assets/images/cards/artist.png";
+const hacker_card = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/cards/hacker.png";
+const musician_card = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/cards/musician.png";
+const artist_card = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/cards/artist.png";
 
 export default function Cards() {
   return (

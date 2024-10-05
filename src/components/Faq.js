@@ -16,14 +16,14 @@ import {
 import { CSS as dndCSS } from "@dnd-kit/utilities";
 import { confetti } from "@tsparticles/confetti";
 
-import faq1 from "../assets/images/faq/faq1.png";
-import faq2 from "../assets/images/faq/faq2.png";
-import faq3 from "../assets/images/faq/faq3.png";
-import faq4 from "../assets/images/faq/faq4.png";
-import faq5 from "../assets/images/faq/faq5.png";
-import faq6 from "../assets/images/faq/faq6.png";
-import faq7 from "../assets/images/faq/faq7.png";
-import faq8 from "../assets/images/faq/faq8.png";
+const faq1 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/faq/faq1.png";
+const faq2 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/faq/faq2.png";
+const faq3 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/faq/faq3.png";
+const faq4 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/faq/faq4.png";
+const faq5 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/faq/faq5.png";
+const faq6 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/faq/faq6.png";
+const faq7 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/faq/faq7.png";
+const faq8 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/faq/faq8.png";
 
 const faqBkgrs = [faq1, faq2, faq3, faq4, faq5, faq6, faq7, faq8];
 

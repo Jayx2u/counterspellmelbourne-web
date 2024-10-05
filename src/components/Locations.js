@@ -1,8 +1,8 @@
 import { useState } from "react";
 
-import flare1 from "../assets/images/flares/flare1.png";
-import flare2 from "../assets/images/flares/flare2.png";
-import flare3 from "../assets/images/flares/flare3.png";
+const flare1 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/flares/flare1.png";
+const flare2 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/flares/flare2.png";
+const flare3 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/flares/flare3.png";
 
 
 export default function Locations() {

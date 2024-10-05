@@ -1,5 +1,5 @@
-import about1 from "../assets/images/photos/about1.png";
-import about2 from "../assets/images/photos/about2.png";
+const about1 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/photos/about1.png";
+const about2 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/photos/about2.png";
 
 
 export default function About() {

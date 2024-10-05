@@ -1,16 +1,16 @@
 import React, { useEffect, useState } from "react";
 import Banner from "@hackclub/banner";
 
-import billboard from "../assets/images/hero/billboard.png";
-import title from "../assets/images/hero/melbtitle.png";
-import smoke from "../assets/images/hero/smoke.gif";
-import down from "../assets/images/hero/down.png";
+const billboard = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/hero/billboard.png";
+const title = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/hero/melbtitle.png";
+const smoke = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/hero/smoke.gif";
+const down = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/hero/down.png";
 
-import bg1 from "../assets/images/hero/bg1.png";
-import bg2 from "../assets/images/hero/bg2.png";
-import bg3 from "../assets/images/hero/bg3.png";
-import bg4 from "../assets/images/hero/bg4.png";
-import bg5 from "../assets/images/hero/bg5.png";
+const bg1 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/hero/bg1.png";
+const bg2 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/hero/bg2.png";
+const bg3 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/hero/bg3.png";
+const bg4 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/hero/bg4.png";
+const bg5 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/hero/bg5.png";
 
 
 export default function Hero() {

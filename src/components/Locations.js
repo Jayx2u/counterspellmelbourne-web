@@ -1,4 +1,5 @@
 import { useState } from "react";
+import Map from "./Map";
 
 const flare1 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/flares/flare1.png";
 const flare2 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-web/refs/heads/main/src/assets/images/flares/flare2.png";
@@ -6,17 +7,6 @@ const flare3 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-w
 
 
 export default function Locations() {
-  const cities = [
-    "Boston, MA",
-    "New York City, NY",
-    "Ottawa, ON",
-    "Basking Ridge, NJ",
-    "Austin, TX",
-    "San Francisco, CA",
-    "Burlington, VT",
-    "Oshkosh, WI",
-  ];
-
   const [submitBtn, setSubmitBtn] = useState("Sign up");
 
   return (
@@ -28,11 +18,9 @@ export default function Locations() {
       <p className="text-xl">
         There are 200+ other Counterspell locations worldwide!
       </p>
-      <div class="flex justify-center pt-24">
-        <div className="grid grid-cols-1 lg:grid-cols-2 justify-center items-center text-2xl max-w-5xl w-full gap-8">
-          {cities.map((city) => (
-            <p className="lg:odd:text-left lg:even:text-right">{city}</p>
-          ))}
+      <div className="flex justify-center text-center text-2xl space-y-2 my-20">
+        <div className="border-4 border-dashed border-pink py-6 px-6 neuebit tracking-wider text-4xl max-w-5xl w-full">
+          <Map/>
         </div>
       </div>
 
@@ -61,7 +49,7 @@ export default function Locations() {
             placeholder="fiona@hackclub.com"
             required
           />
-          <input type="hidden" name="userGroup" value="Hack Clubber" />
+          <input type="hidden" name="userGroup" value="Hack Clubber"/>
           <input
             type="hidden"
             name="mailingLists"

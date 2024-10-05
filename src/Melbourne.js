@@ -49,6 +49,24 @@ export default function Melbourne() {
         setScrollPos(window.scrollY);
     };
 
+    const ScrollButton = ({ targetId, children }) => {
+      const handleClick = () => {
+        const element = document.getElementById(targetId);
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth' });
+        }
+      };
+
+      return (
+        <button
+          onClick={handleClick}
+          style={{textDecorationLine: "none"}}
+          className="hidden sm:block text-white fixed top-4 right-4 retro bg-pink py-2 px-3 uppercase z-50 hover:scale-105 hover:text-white">
+          {children}
+        </button>
+      );
+    };
+
     const audioRef = useRef(null);
 
     function toggleMute() {
@@ -113,13 +131,7 @@ export default function Melbourne() {
           <source src="/haunted.mp3" type="audio/mp3"/>
         </audio>
 
-        <a
-          className="hidden sm:block text-white fixed top-4 right-4 retro bg-pink py-2 px-3 uppercase z-50 hover:scale-105 hover:text-white"
-          href="#interest"
-          style={{textDecorationLine: "none"}}
-        >
-          Interested?
-        </a>
+        <ScrollButton targetId="interest">Interested?</ScrollButton>
 
         <Hero/>
 

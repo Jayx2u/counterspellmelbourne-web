@@ -30,20 +30,14 @@ const faqBkgrs = [faq1, faq2, faq3, faq4, faq5, faq6, faq7, faq8];
 const faqData = [
   {
     question: "Am I eligible to sign up?",
-    answer: `If you're 18 or under, yes, we are so excited to see you! If you're over 18 but
-        still in high school, shoot us an email at
-        <a href="mailto:contact@counterspellmelbourne.com">contact@counterspellmelbourne.com</a>.`,
+    answer: `If you're 18 or under, yes, of course! If you're over 18 but
+        still in high school, shoot us an email
+        <a href="mailto:contact@counterspellmelbourne.com">here</a>,
+        and we'll make sure to figure it out.`,
   },
   {
     question: "Does participating cost anything?",
-    answer: `It's entirely free! We'll have meals, snacks, and beverages onsite at the hackathon, as well as swag, prizes, and fun mini-events.`,
-  },
-  {
-    question: "What has Hack Club done before?",
-    answer: `We have run multiple events around the world. The summer of '21, we 
-        <a href="https://www.youtube.com/watch?v=2BID8_pGuqA&ab_channel=HackClub">chartered a train across America</a>
-        and ran the world's longest hackathon on land. Last year, we ran an outdoors do-it-yourself <a href="https://www.youtube.com/watch?v=O1s5HqSqKi0&ab_channel=HackClub">camping 
-        adventure</a> in Cabot, Vermont.`,
+    answer: `Attendance is <u>completely free</u>! All the funds are from our generous sponsors. We'll have meals and snacks onsite, as well as swag, prizes, and fun mini-events.`,
   },
   {
     question: "I'm not good at coding, can I join?",
@@ -51,21 +45,28 @@ const faqData = [
   },
   {
     question: "What can I make at Counterspell?",
-    answer: `At Counterspell, we're building video games of all kinds! The theme will be revealed at the start of the event.`,
+    answer: `At Counterspell, we'll be building video games of all kinds! The theme will be revealed at the start of the event.`,
   },
   {
     question: "What do I need to bring to Counterspell?",
     answer: `Your laptop, charger, and an open mind! You'll also need to bring toiletries, and a sleeping bag.`,
   },
   {
+    question: "What has Hack Club done before?",
+    answer: `We have run multiple events around the world. The summer of 2021, we 
+        <a href="https://www.youtube.com/watch?v=2BID8_pGuqA&ab_channel=HackClub">chartered a train across America</a>
+        and ran the world's longest hackathon on land. Last year, we ran an outdoors do-it-yourself <a href="https://www.youtube.com/watch?v=O1s5HqSqKi0&ab_channel=HackClub">camping 
+        adventure</a> in Cabot, Vermont.`,
+  },
+  {
     question: "My parents are worried!",
-    answer: `We're here to help! Ask them to reach out to Hack Club at
-          <a href="mailto:counterspell@hackclub.com">counterspell@hackclub.com</a>
-          and we'll make sure to answer all their questions!`,
+    answer: `We're here to help! Ask them to reach out to us
+          <a href="mailto:contact@counterspellmelbourne.com">here</a>
+          and we'll make sure to answer all their questions! We'll also be hosting two parent info sessions a few weeks before the event.`,
   },
   {
     question: "I have more questions, where can I ask?",
-    answer: `Contact us! Reach us in <a href="https://hackclub.com/slack/">#counterspell-melbourne</a> on the Hack Club Slack or email us <a href="mailto:contact@counterspellmelbourne.com">here</a>.
+    answer: `Contact us! Email us <a href="mailto:contact@counterspellmelbourne.com">here</a> or reach us in <a href="https://hackclub.com/slack/">#counterspell-melbourne</a> on the Hack Club Slack!
           We're always ready to answer all your questions!`,
   },
 ];

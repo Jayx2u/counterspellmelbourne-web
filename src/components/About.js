@@ -13,7 +13,7 @@ export default function About() {
           <div className="row-span-2 border-4 border-pink border-dashed p-8 md:p-12 space-y-12">
             <p>
               {}
-              Counterspell Melbourne is a beginner friendly hackathon/game jam for high
+              Counterspell Melbourne is a free-to-attend beginner friendly hackathon/game jam for high
               schoolers happening this November where{" "}
               <span className="text-pink">
                 artists, musicians, and coders

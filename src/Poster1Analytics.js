@@ -2,7 +2,7 @@ import { Analytics } from "@vercel/analytics/react";
 import React from "react";
 
 
-export default function DownloadPage() {
+export default function Poster1Analytics() {
     window.location.href = `/`;
 
     return (

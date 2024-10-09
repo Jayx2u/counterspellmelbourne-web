@@ -1,0 +1,440 @@
+[
+    {
+        "name": "Busan, South Korea",
+        "city_web_name": "#counterspell-busan-kr",
+        "latitude": 35.1799528,
+        "longitude": 129.0752365
+    },
+    {
+        "name": "Agra, India",
+        "city_web_name": "#counterspell-agra",
+        "latitude": 27.1752554,
+        "longitude": 78.0098161
+    },
+    {
+        "name": "Bengaluru, India",
+        "city_web_name": "#counterspell-bengaluru",
+        "latitude": 12.98815675,
+        "longitude": 77.62260003796
+    },
+    {
+        "name": "Bhopal, India",
+        "city_web_name": "#counterspell-bhopal",
+        "latitude": 23.2584857,
+        "longitude": 77.401989
+    },
+    {
+        "name": "Chandigarh, India",
+        "city_web_name": "#counterspell-chandigarh",
+        "latitude": 30.72984395,
+        "longitude": 76.78414567016054
+    },
+    {
+        "name": "Chennai, India",
+        "city_web_name": "#counterspell-chennai",
+        "latitude": 13.0836939,
+        "longitude": 80.270186
+    },
+    {
+        "name": "Delhi, India",
+        "city_web_name": "#counterspell-delhi",
+        "latitude": 28.6273928,
+        "longitude": 77.1716954
+    },
+    {
+        "name": "Gurugram, India",
+        "city_web_name": "#counterspell-gurugram",
+        "latitude": 28.4646148,
+        "longitude": 77.0299194
+    },
+    {
+        "name": "Howrah, West Bengal, India",
+        "city_web_name": "#bengal-hackers",
+        "latitude": 22.5736296,
+        "longitude": 88.3251045
+    },
+    {
+        "name": "K",
+        "city_web_name": "a",
+        "latitude": 49.790952,
+        "longitude": 20.3793521
+    },
+    {
+        "name": "Mumbai, India",
+        "city_web_name": "#counterspell-mumbai",
+        "latitude": 19.08157715,
+        "longitude": 72.88662753964906
+    },
+    {
+        "name": "Pune, India",
+        "city_web_name": "#counterspell-pune",
+        "latitude": 18.5213738,
+        "longitude": 73.8545071
+    },
+    {
+        "name": "Visakhapatnam, India",
+        "city_web_name": "#counterspell-visakhapatnam",
+        "latitude": 17.7231276,
+        "longitude": 83.3012842
+    },
+    {
+        "name": "Kuwait",
+        "city_web_name": "#counterspellkuwait",
+        "latitude": 29.3796532,
+        "longitude": 47.9734174
+    },
+    {
+        "name": "Lahore, Pakistan",
+        "city_web_name": "#counterspell-lahore",
+        "latitude": 31.5656822,
+        "longitude": 74.3141829
+    },
+    {
+        "name": "Phuket, Thailand",
+        "city_web_name": "#counterspell-phuket",
+        "latitude": 7.9366015,
+        "longitude": 98.3529292
+    },
+    {
+        "name": "Seoul, South Korea",
+        "city_web_name": "#counterspell-seoul",
+        "latitude": 37.5666791,
+        "longitude": 126.9782914
+    },
+    {
+        "name": "Singapore",
+        "city_web_name": "#counterspell-singapore",
+        "latitude": 1.357107,
+        "longitude": 103.8194992
+    },
+    {
+        "name": "Taipei, Taiwan",
+        "city_web_name": "#counterspell-taiwan",
+        "latitude": 25.0375198,
+        "longitude": 121.5636796
+    },
+    {
+        "name": "Hong Kong",
+        "city_web_name": "#counterspell-hongkong",
+        "latitude": 22.350627,
+        "longitude": 114.1849161
+    },
+    {
+        "name": "Kathmandu, Nepal",
+        "city_web_name": "#counterspell-kathmandu",
+        "latitude": 27.708317,
+        "longitude": 85.3205817
+    },
+    {
+        "name": "Melbourne, VIC, Australia",
+        "city_web_name": "#counterspell-melbourne",
+        "latitude": -37.8142454,
+        "longitude": 144.9631732
+    },
+    {
+        "name": "Perth, WA, Australia",
+        "city_web_name": "#counterspell-perth",
+        "latitude": -31.9558933,
+        "longitude": 115.8605855
+    },
+    {
+        "name": "Sydney, NSW, Australia",
+        "city_web_name": "#counterspell-sydney",
+        "latitude": -33.8698439,
+        "longitude": 151.2082848
+    },
+    {
+        "name": "Calgary, AB, Canada",
+        "city_web_name": "#counterspell-yyc",
+        "latitude": 51.0456064,
+        "longitude": -114.057541
+    },
+    {
+        "name": "Ottawa, ON, Canada",
+        "city_web_name": "#counterspell-ottawa",
+        "latitude": 45.4208777,
+        "longitude": -75.6901106
+    },
+    {
+        "name": "Toronto, ON, Canada",
+        "city_web_name": "#counterspell-toronto",
+        "latitude": 43.6534817,
+        "longitude": -79.3839347
+    },
+    {
+        "name": "Vancouver, BC, Canada",
+        "city_web_name": "#counterspell-vancouver",
+        "latitude": 49.2608724,
+        "longitude": -123.113952
+    },
+    {
+        "name": "West Kelowna, BC, Canada",
+        "city_web_name": "#counterspell-okanagan",
+        "latitude": 49.8585784,
+        "longitude": -119.582876
+    },
+    {
+        "name": "Winnipeg, MB, Canada",
+        "city_web_name": "#counterspell-winnipeg",
+        "latitude": 49.8955367,
+        "longitude": -97.1384584
+    },
+    {
+        "name": "Cairo, Egypt",
+        "city_web_name": "#counterspell-cairo",
+        "latitude": 30.0443879,
+        "longitude": 31.2357257
+    },
+    {
+        "name": "Alexandria, Egypt",
+        "city_web_name": "#counterspell-alexandria",
+        "latitude": 31.1991806,
+        "longitude": 29.8951716
+    },
+    {
+        "name": "Kigali, Rwanda",
+        "city_web_name": "#counterspell-kigali",
+        "latitude": -1.8859597,
+        "longitude": 30.1296751
+    },
+    {
+        "name": "Nairobi, Kenya",
+        "city_web_name": "#counterspell-nairobi",
+        "latitude": -1.2832533,
+        "longitude": 36.8172449
+    },
+    {
+        "name": "Abu Dhabi, UAE",
+        "city_web_name": "#counterspell-abu-dhabi",
+        "latitude": 24.4538352,
+        "longitude": 54.3774014
+    },
+    {
+        "name": "Dubai, UAE",
+        "city_web_name": "#counterspell-dubai",
+        "latitude": 25.2653471,
+        "longitude": 55.2924914
+    },
+    {
+        "name": "Cambridge, UK",
+        "city_web_name": "#counterspell-cambridge",
+        "latitude": 52.2055314,
+        "longitude": 0.1186637
+    },
+    {
+        "name": "Leicester, UK",
+        "city_web_name": "#counterspell-leicester",
+        "latitude": 52.6362,
+        "longitude": -1.1331969
+    },
+    {
+        "name": "Phoenix, AZ, USA",
+        "city_web_name": "#counterspell-phoenix",
+        "latitude": 33.4484367,
+        "longitude": -112.074141
+    },
+    {
+        "name": "Boston, MA, USA",
+        "city_web_name": "#counterspell-boston",
+        "latitude": 42.3554334,
+        "longitude": -71.060511
+    },
+    {
+        "name": "London, UK",
+        "city_web_name": "#counterspell-london",
+        "latitude": 51.4893335,
+        "longitude": -0.1440551
+    },
+    {
+        "name": "Berkeley, CA, USA",
+        "city_web_name": "#counterspell-berkeley",
+        "latitude": 37.8708393,
+        "longitude": -122.272863
+    },
+    {
+        "name": "Irvine, CA, USA",
+        "city_web_name": "#counterspell-irvine",
+        "latitude": 33.6856969,
+        "longitude": -117.825981
+    },
+    {
+        "name": "San Diego, CA, USA",
+        "city_web_name": "#counterspell-san-diego",
+        "latitude": 32.7174202,
+        "longitude": -117.162772
+    },
+    {
+        "name": "San Francisco, CA, USA",
+        "city_web_name": "#counterspell-sf",
+        "latitude": 37.7792588,
+        "longitude": -122.4193286
+    },
+    {
+        "name": "South Bay, CA, USA",
+        "city_web_name": "#counterspell-south-bay",
+        "latitude": 40.7054044,
+        "longitude": -124.2392269
+    },
+    {
+        "name": "San Mateo",
+        "city_web_name": "#counterspell-san-mateo",
+        "latitude": 37.496904,
+        "longitude": -122.3330573
+    },
+    {
+        "name": "Thousand Oaks, CA, USA",
+        "city_web_name": "#counterspell-to",
+        "latitude": 34.1705609,
+        "longitude": -118.8375937
+    },
+    {
+        "name": "Folsom, CA, USA",
+        "city_web_name": "#counterspell-folsom",
+        "latitude": 38.6779591,
+        "longitude": -121.176058
+    },
+    {
+        "name": "Washington, DC, USA",
+        "city_web_name": "#counterspell-dc",
+        "latitude": 38.8950368,
+        "longitude": -77.0365427
+    },
+    {
+        "name": "Saint Augustine, FL, USA",
+        "city_web_name": "#counterspell-saint-augustine",
+        "latitude": 29.8946952,
+        "longitude": -81.3145395
+    },
+    {
+        "name": "Tampa, FL, USA",
+        "city_web_name": "#counterspell-tampa",
+        "latitude": 27.9477595,
+        "longitude": -82.458444
+    },
+    {
+        "name": "Atlanta, GA, USA",
+        "city_web_name": "#counterspell-atl",
+        "latitude": 33.7489924,
+        "longitude": -84.3902644
+    },
+    {
+        "name": "New York City, NY, USA",
+        "city_web_name": "#counterspell-ny",
+        "latitude": 40.7127281,
+        "longitude": -74.0060152
+    },
+    {
+        "name": "Charlotte, NC, USA",
+        "city_web_name": "#counterspell-charlotte",
+        "latitude": 35.2272086,
+        "longitude": -80.8430827
+    },
+    {
+        "name": "Columbus, OH, USA",
+        "city_web_name": "#counterspell-columbus",
+        "latitude": 39.9622601,
+        "longitude": -83.0007065
+    },
+    {
+        "name": "Austin, TX, USA",
+        "city_web_name": "#counterspell-austin",
+        "latitude": 30.2711286,
+        "longitude": -97.7436995
+    },
+    {
+        "name": "Dallas, TX, USA",
+        "city_web_name": "#counterspell-dallas",
+        "latitude": 32.7762719,
+        "longitude": -96.7968559
+    },
+    {
+        "name": "Houston, TX, USA",
+        "city_web_name": "#counterspell-houston",
+        "latitude": 29.7589382,
+        "longitude": -95.3676974
+    },
+    {
+        "name": "Arlington, TX, USA",
+        "city_web_name": "#counterspell-arlington",
+        "latitude": 32.7355816,
+        "longitude": -97.1071186
+    },
+    {
+        "name": "Oshkosh, WI, USA",
+        "city_web_name": "#counterspell-oshkosh",
+        "latitude": 44.0206919,
+        "longitude": -88.5408574
+    },
+    {
+        "name": "Minneapolis, MN, USA",
+        "city_web_name": "#counterspell-minneapolis",
+        "latitude": 44.9772995,
+        "longitude": -93.2654692
+    },
+    {
+        "name": "Manassas, VA, USA",
+        "city_web_name": "#counterspell-manassas",
+        "latitude": 38.7509488,
+        "longitude": -77.4752667
+    },
+    {
+        "name": "Indianapolis, IN, USA",
+        "city_web_name": "#counterspell-indianapolis",
+        "latitude": 39.7683331,
+        "longitude": -86.1583502
+    },
+    {
+        "name": "Auckland, New Zealand",
+        "city_web_name": "#counterspell-nz",
+        "latitude": -36.852095,
+        "longitude": 174.7631803
+    },
+    {
+        "name": "Bahrain",
+        "city_web_name": "#counterspell-bahrain",
+        "latitude": 26.1551249,
+        "longitude": 50.5344606
+    },
+    {
+        "name": "Basel, Switzerland",
+        "city_web_name": "#counterspell-basel",
+        "latitude": 47.5581077,
+        "longitude": 7.5878261
+    },
+    {
+        "name": "Bydgoszcz, Poland",
+        "city_web_name": "#counterspell-bydgoszcz",
+        "latitude": 53.12971265,
+        "longitude": 18.02944875572119
+    },
+    {
+        "name": "Madrid, MD, Spain",
+        "city_web_name": "#counterspell-madrid",
+        "latitude": 40.4167047,
+        "longitude": -3.7035825
+    },
+    {
+        "name": "Sã Paulo, SP, Brazil",
+        "city_web_name": "#counterspell-sp",
+        "latitude": -23.5506507,
+        "longitude": -46.6333824
+    },
+    {
+        "name": "Burlington, VT, USA",
+        "city_web_name": "#none",
+        "latitude": 44.4761601,
+        "longitude": -73.212906
+    },
+    {
+        "name": "Basking Ridge, NJ, USA",
+        "city_web_name": "#none",
+        "latitude": 40.7064088,
+        "longitude": -74.5492725
+    },
+    {
+        "name": "Casablanca, Morocco",
+        "city_web_name": "#none",
+        "latitude": 33.5945144,
+        "longitude": -7.6200284
+    }
+]

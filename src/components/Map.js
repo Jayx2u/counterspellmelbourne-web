@@ -8,7 +8,7 @@ import {
 import 'leaflet/dist/leaflet.css'
 import L from 'leaflet'
 
-import events from '../events.json'
+import events from '../event_locations.json'
 
 const mapIcon = new L.Icon({
   iconUrl: `${process.env.PUBLIC_URL}/favicon.ico`,
@@ -56,9 +56,9 @@ export default function Map() {
             icon={mapIcon}
           >
            <Popup>
-            <a href={`https://hackclub.slack.com/archives/${event.slack_id}`} target="_blank" rel="noopener noreferrer">
+            {/*<a href={`https://counterspell.hackclub.com/${event.city_web_name}`} target="_blank" rel="noopener noreferrer">*/}
               {event.name}
-            </a>
+            {/*</a>*/}
           </Popup>
           </Marker>
         ))}

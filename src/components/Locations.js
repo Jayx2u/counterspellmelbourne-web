@@ -7,7 +7,7 @@ const flare3 = "https://raw.githubusercontent.com/Jayx2u/counterspellmelbourne-w
 
 
 export default function Locations() {
-  const [submitBtn, setSubmitBtn] = useState("Sign up");
+  const [submitBtn, setSubmitBtn] = useState("Continue");
 
   return (
     <div className="neuebit py-24 px-6 bg-darker text-center retro relative">
@@ -36,6 +36,13 @@ export default function Locations() {
         <p className="text-center text-xl">
           Get notified when registrations open
         </p>
+        <small className="text-center text-large">
+          Note: you'll be redirected{" "}
+          <a href="https://counterspellmelb.fillout.com/t/7YCjumurXYus">
+            here
+          </a>{" "}
+          to finish the form.
+        </small>
         <form
           method="post"
           action="https://app.loops.so/api/newsletter-form/clo3frr4v02f3jv0qqu6hgfqs"
@@ -87,6 +94,7 @@ export default function Locations() {
     e.preventDefault();
     const form = e.target;
 
+    // Hack Club Mailing List
     fetch(form.action, {
       method: "POST",
       body: new URLSearchParams(new FormData(form)),
@@ -102,5 +110,11 @@ export default function Locations() {
       .catch((error) => {
         setSubmitBtn("Error");
       });
+
+    // Counterspell Melb Mailing List
+    const formData = new FormData(form);
+    const email = formData.get("email");
+    window.location.href = `https://counterspellmelb.fillout.com/t/7YCjumurXYus?ref=${encodeURIComponent(
+      "website")}&email=${encodeURIComponent(email)}`;
   }
 }

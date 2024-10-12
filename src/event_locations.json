@@ -420,6 +420,18 @@
         "longitude": -46.6333824
     },
     {
+        "name": "Wolverhampton, UK",
+        "city_web_name": "#counterspell-wolverhampton",
+        "latitude": 52.583333,
+        "longitude": -2.133333
+    },
+    {
+        "name": "Newark, CA, USA",
+        "city_web_name": "#counterspell-newark-ca",
+        "latitude": 37.529659,
+        "longitude": -122.040237
+    },
+    {
         "name": "Burlington, VT, USA",
         "city_web_name": "#none",
         "latitude": 44.4761601,
@@ -436,5 +448,11 @@
         "city_web_name": "#none",
         "latitude": 33.5945144,
         "longitude": -7.6200284
+    },
+    {
+        "name": "Kodaikanal, TN, India",
+        "city_web_name": "#none",
+        "latitude": 10.23,
+        "longitude": 77.48
     }
 ]
